@@ -1,1 +1,2 @@
-# awesome_css_animation
+The idea for the animation comes from this awesome article on Codersblock:
+https://codersblock.com/blog/star-wars-scene-transition-effects-in-css/?utm_source=CSS-Weekly&utm_campaign=Issue-507&utm_medium=email
